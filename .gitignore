@@ -16,3 +16,4 @@
 
 # allow README if needed
 !README.md
+node_modules/
