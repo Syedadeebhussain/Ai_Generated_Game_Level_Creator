@@ -1,1 +1,18 @@
-node_modules/
+# ignore everything
+*
+
+# allow selected folders
+!rl_service/
+!rl_service/**
+
+!src/
+!src/**
+
+!supabase/
+!supabase/**
+
+# allow gitignore itself
+!.gitignore
+
+# allow README if needed
+!README.md
